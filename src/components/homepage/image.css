@@ -1,0 +1,129 @@
+@media screen and (max-width: 10000px) {
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px 40% 150px 10%;
+        color: white;
+        font-size: 50px;
+        /* transition: background-image 2s; */
+      }
+      /* .bgimage:visited{
+          background-image: none;
+          color: black;
+      } */
+      
+      .image--list > li:hover{
+          font-size: 55px;
+      }
+}
+@media screen and (max-width: 1000px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 40px;
+    }
+    li:hover{
+        font-size: 45px;
+    }
+}
+@media screen and (max-width: 900px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 36px;
+    }
+    li:hover{
+        font-size: 40px;
+    }
+}@media screen and (max-width: 800px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 32px;
+    }
+    li:hover{
+        font-size: 36px;
+    }
+}@media screen and (max-width: 700px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 28px;
+    }
+    li:hover{
+        font-size: 32px;
+    }
+}@media screen and (max-width: 600px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 24px;
+    }
+    li:hover{
+        font-size: 28px;
+    }
+}@media screen and (max-width: 500px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 20px;
+    }
+    li:hover{
+        font-size: 24px;
+    }
+}@media screen and (max-width: 400px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 16px;
+    }
+    li:hover{
+        font-size: 20px;
+    }
+}@media screen and (max-width: 300px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 12px;
+    }
+    li:hover{
+        font-size: 15px;
+    }
+}@media screen and (max-width: 200px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 11px;
+    }
+    li:hover{
+        font-size: 14px;
+    }
+}@media screen and (max-width: 100px)
+{
+    .bgimage{
+        background-image: url('bgimage.jpg');
+        padding: 150px auto 150px 10%;
+        color: white;
+        font-size: 10px;
+    }
+    li:hover{
+        font-size: 12px;
+    }
+}

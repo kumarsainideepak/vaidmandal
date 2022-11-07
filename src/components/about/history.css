@@ -1,0 +1,40 @@
+.section
+{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.intro--header
+{
+    font-size: xx-large;
+   
+}
+.intro--body
+{
+    font-size: x-large;
+}
+.video
+{
+    height: 400px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10%;
+    box-shadow: 5px 5px rgb(33,44,55,0.5);
+    
+}
+.history--header
+{
+    font-size: xx-large;
+}
+.history--body
+{
+    font-size: x-large;
+}
+.venture--header
+{
+    font-size: xx-large;
+}
+.venture--body
+{
+    font-size: x-large;
+}

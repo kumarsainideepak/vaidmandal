@@ -1,0 +1,108 @@
+.blogs
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.objective--header
+{
+    font-size: xx-large;
+    animation-name: headers;
+    animation-duration: 2s;
+    position: relative;
+    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+@keyframes headers {
+    0% { left: 200px; top: 0px;}
+    /* 50%{background-color: brown; color: grey; left: 100px; top: 0px;} */
+    100% { left: 0px; top: 0px;}
+}
+@keyframes body {
+    0% { left: -200px; top: 0px;}
+    100% { left: 0px; top: 0px;}
+}
+/* .objective--header:hover
+{
+    font-size: xxx-large;
+} */
+.objective--body
+{   
+    font-size: x-large;
+    animation-name: body;
+    animation-duration: 2s;
+    position: relative;
+}
+.history--header
+{
+    font-size: xx-large;
+    animation-name: headers;
+    animation-duration: 2s;
+    position: relative;
+    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.history--body
+{
+    font-size: x-large;
+    animation-name: body;
+    animation-duration: 2s;
+    position: relative;
+}
+.dosha--header
+{
+    font-size: xx-large;
+    animation-name: headers;
+    animation-duration: 2s;
+    position: relative;
+    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.dosha--body
+{
+    font-size: x-large;
+    animation-name: body;
+    animation-duration: 2s;
+    position: relative;
+}
+.vata--header
+{
+    font-size: xx-large;
+    animation-name: headers;
+    animation-duration: 2s;
+    position: relative;
+    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.vata--body
+{
+    font-size: x-large;
+    animation-name: body;
+    animation-duration: 2s;
+    position: relative;
+}
+.pitta--header
+{
+    font-size: xx-large;
+    animation-name: headers;
+    animation-duration: 2s;
+    position: relative;
+    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.pitta--body
+{
+    font-size: x-large;
+    animation-name: body;
+    animation-duration: 2s;
+    position: relative;
+}
+.kapha--header
+{
+    font-size: xx-large;
+    animation-name: headers;
+    animation-duration: 2s;
+    position: relative;
+    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.kapha--body
+{
+    font-size: x-large;
+    animation-name: body;
+    animation-duration: 2s;
+    position: relative;
+}

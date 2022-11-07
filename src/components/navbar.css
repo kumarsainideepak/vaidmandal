@@ -1,0 +1,25 @@
+.navbar
+{
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    background-color: slategrey;
+    color: whitesmoke;
+    align-items: center;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+.astyle
+{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.divstyle
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    width: 35%;
+    display: flex;
+    font-size: 20px;
+}

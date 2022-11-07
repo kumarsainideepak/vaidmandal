@@ -1,0 +1,11 @@
+/* @media screen and (max-width: 768px) {
+    .main{
+        color: black;
+        background-color: brown;
+    }
+} */
+
+.home-div{
+    color: white;
+    background-color: rgba(5, 7, 7, 0.63);
+}
