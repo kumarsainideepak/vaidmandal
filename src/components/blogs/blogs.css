@@ -82,7 +82,7 @@
     animation-name: headers;
     animation-duration: 2s;
     position: relative;
-    animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+    animation-timing-function:ease-out;
 }
 .pitta--body
 {
